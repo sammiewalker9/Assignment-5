@@ -1,0 +1,34 @@
+Sammie Walker
+2315055
+swalker@chapman.edu
+
+Eric Wasserman
+2300841
+ewasserman@chapman.edu
+
+CPSC 350 - 03
+Assignment 5
+
+Source Files:
+    1. main.cpp
+    2. FileHandler.cpp
+    3. Faculty.cpp
+    4. Student.cpp
+    5. GenStack.h
+    6. GenTree.h
+
+References:
+    1. https://stackoverflow.com/questions/17032970/clear-data-inside-text-file-in-c
+    2. https://www.tutorialspoint.com/cplusplus/cpp_classes_objects.htm
+    3. http://www.cplusplus.com/reference/string/string/substr/
+    4  http://www.cplusplus.com/reference/string/string/c_str/
+    5. Data Structures and Algorithms
+    6. http://www.cplusplus.com/doc/tutorial/operators/
+    7. http://www.cplusplus.com/reference/cstdlib/atoi/
+    8. https://www.ibm.com/support/knowledgecenter/en/SSLTBW_2.3.0/com.ibm.zos.v2r3.cbclx01/cplr233.htm
+
+
+Notes:
+    The structure of the text files must be the same as ours.
+    The first line is blank and then the order goes - id, name,
+    level/type, major/department, gpa, advisor/ee id.
